@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This is an ElectronJS app.
+This is an ElectronJS app to practise with this technologies.
 
 ## Installation
 
