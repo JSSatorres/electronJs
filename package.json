@@ -1,0 +1,28 @@
+{
+  "name": "electronjs",
+  "version": "1.0.0",
+  "description": "ElectronJS app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSSatorres/electronJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSSatorres/electronJs/issues"
+  },
+  "homepage": "https://github.com/JSSatorres/electronJs#readme",
+  "devDependencies": {
+    "electron": "^23.1.4",
+    "standard": "^17.0.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
